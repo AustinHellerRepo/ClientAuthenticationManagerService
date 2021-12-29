@@ -1,0 +1,3 @@
+git+https://github.com/AustinHellerRepo/ClientAuthenticationManager
+git+https://github.com/AustinHellerRepo/Socket
+git+https://github.com/AustinHellerRepo/Common
